@@ -13,7 +13,11 @@ type ToastContentProps = {
   message: string;
   duration: number;
   onClose: (id: string) => void;
+<<<<<<< HEAD
 };
+=======
+}
+>>>>>>> eb0d052 ([1단계 - 장바구니] 써밋(이우혁) 미션 제출합니다. (#365))
 
 const ToastEffect = {
   success: {
